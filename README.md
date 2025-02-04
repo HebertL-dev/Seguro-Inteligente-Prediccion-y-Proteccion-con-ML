@@ -11,6 +11,15 @@ Este proyecto de **Sure Tomorrow** explora cómo el **machine learning** puede m
 3️⃣ **Estimación de la cantidad de beneficios** usando regresión lineal.  
 4️⃣ **Protección de datos personales** mediante enmascaramiento sin afectar el rendimiento del modelo.  
 
+## ⚙️ Tecnologías Usadas
+
+🔹 Python 🐍  
+🔹 Pandas 📊  
+🔹 Scikit-Learn 🤖  
+🔹 NumPy 🔢  
+🔹 Matplotlib 📉  
+🔹 Machine Learning 🧠
+
 ## 🚀 Instalación y Uso
 
 ```bash
